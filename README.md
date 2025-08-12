@@ -20,7 +20,9 @@ Access the app in your web browser at the provided URL.
 # Here are the Screenshots
 
 ## Male
-<img width="960" alt="Male" src="https://github.com/attaelahi/Age-and-Gender-Detection-App/assets/72361631/0c8996d8-1fc7-4aa5-a6f8-81dd60f034e6">
+## Dashboard Preview
+<img width="800" alt="App Dashboard" src="https://raw.githubusercontent.com/P-MUHAMMADHU-NAZAR-ALI/Age-and-Gender-Prediction-Using-Deep-Learning/main/images/dashboard.jpg">
+
 <img width="959" alt="Result" src="https://github.com/attaelahi/Age-and-Gender-Detection-App/assets/72361631/49886fe4-11a4-41c1-b700-3b1191e53a7c">
 
 ## Female
