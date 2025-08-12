@@ -23,11 +23,13 @@ Access the app in your web browser at the provided URL.
 ## Dashboard Preview
 <img width="800" alt="App Dashboard" src="https://raw.githubusercontent.com/P-MUHAMMADHU-NAZAR-ALI/Age-and-Gender-Prediction-Using-Deep-Learning/main/images/dashboard.jpg">
 
-<img width="959" alt="Result" src="https://github.com/attaelahi/Age-and-Gender-Detection-App/assets/72361631/49886fe4-11a4-41c1-b700-3b1191e53a7c">
+## Dashboard Preview
+<img width="800" alt="App Dashboard" src="https://raw.githubusercontent.com/P-MUHAMMADHU-NAZAR-ALI/Age-and-Gender-Prediction-Using-Deep-Learning/main/images/age and gender prediction.jpg">
 
-## Female
-<img width="960" alt="Female" src="https://github.com/attaelahi/Age-and-Gender-Detection-App/assets/72361631/5befa7fb-7618-4d06-aaed-67e81698241e">
-<img width="960" alt="Female Result" src="https://github.com/attaelahi/Age-and-Gender-Detection-App/assets/72361631/fffd7916-9d13-41e6-8d59-d3e2fea60371">
+## Dashboard Preview
+<img width="800" alt="App Dashboard" src="https://raw.githubusercontent.com/P-MUHAMMADHU-NAZAR-ALI/Age-and-Gender-Prediction-Using-Deep-Learning/main/images/voice prediction.jpg">
+
+
 
 
 
